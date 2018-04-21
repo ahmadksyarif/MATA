@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Timeline"
+        android:icon="@drawable/ic_watch_later"
+        android:id="@+id/bottombaritemone">
+    </item>
+
+    <item android:title="Maps"
+        android:icon="@drawable/ic_place"
+        android:id="@+id/bottombaritemtwo">
+    </item>
+
+    <item android:title="Ar"
+        android:icon="@drawable/ic_linked_camera"
+        android:id="@+id/bottombaritemthree">
+    </item>
+
+    <item android:title="News"
+        android:icon="@drawable/ic_message"
+        android:id="@+id/bottombaritemfour">
+    </item>
+
+</menu>
